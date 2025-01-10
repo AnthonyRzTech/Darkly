@@ -12,7 +12,7 @@ class URLCrawler:
         self.total = 18279
         self.current = 0
         self.session = requests.Session()
-        self.session.timeout = 2  # Reduced timeout
+        self.session.timeout = 2  # Reduced 
 
     def check_for_flag(self, content: str) -> Optional[str]:
         """Check for flag in the specific format we know exists."""

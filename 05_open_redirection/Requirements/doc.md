@@ -127,5 +127,3 @@ RewriteRule ^ - [F]
 - Prevention Cheat Sheet
 
 Tu peux exploiter cette faille en modifiant simplement le paramètre "site" dans l'URL pour rediriger vers n'importe quel site. Pour le projet, essaie de rediriger vers `https://profile.intra.42.fr/` pour obtenir le flag.
-
-As-tu des questions sur la faille ou sur les méthodes de protection ?

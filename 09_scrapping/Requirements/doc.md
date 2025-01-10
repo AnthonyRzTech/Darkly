@@ -81,5 +81,3 @@ Options -Indexes
 - OWASP Directory Traversal
 - Web Scraping Best Practices
 - Apache Security Configuration Guide
-
-As-tu des questions sur le script ou sur les méthodes de protection ?
